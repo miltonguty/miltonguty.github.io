@@ -1,0 +1,82 @@
+{
+  "profile": {
+    "domain": "Guty.dev",
+    "name": "Milton Gutierrez",
+    "profession": "Full stack developer",
+    "cvFile": "download/1.-CV-ES-Milton Adalid Gutierrez Barco.pdf",
+    "photo": "./../images/me.jpeg",
+    "aboutMe": "Full stack developer with more than 8 years of experience in commercial software development, with skills and knowledge in frontend and backend with different technologies.",
+    "whatsapp": "",
+    "facebook": "https://www.facebook.com/milton.guty.dev",
+    "instagram": "https://www.instagram.com/milton.guty.dev/",
+    "linkedin": "https://www.linkedin.com/in/milton-gutierrez-331645346/",
+    "gitHub": "https://github.com/miltonguty",
+    "twitter": ""
+  },
+  "projects": [
+    {
+      "icon": "application",
+      "repository": "",
+      "link": "https://ferritab.com",
+      "title": "Ferritab",
+      "description": "Web site de ventas de agregados de material de contruccion.",
+      "tags": ["vueJs", "Laravel", "chartjs", "tailwind"]
+    }
+  ],
+  "experience": [
+    {
+      "date": "2021 - Present",
+      "role": "Software Developer",
+      "company": {
+        "link": "https://www.facebook.com/primefactorsolutions",
+        "name": "prime factor solutions"
+      },
+      "description": "<ul>      <li> &#x2713; netforum  custonization and implementation new fixures</li>            <li> &#x2713; fixed bugs and create web sites for any companies</li>      <li>  &#x2713; I join the ASA Team, for the creation of you new web application using (C # and Blazor)</li>     <li>  &#x2713; Fixing nd crete new Implementations with net forum framework </li>"
+    },
+    {
+      "date": "2020 - 2021",
+      "role": "Software Developer",
+      "company": {
+        "link": "",
+        "name": ""
+      },
+      "description": "<ul><li> &#x2713; I create website with WordPress and use different plugins, custom fields, yoast SEO, and I create a simple plugin to manage meeting schedules, integrated with social networks and integrate to methods payments PayPal</li><li> &#x2713; Migrate web site from symphony to WordPress</li><li> &#x2713; Create system to administration the condominiums</li>"
+    },
+    {
+      "date": "2012 - March 2020",
+      "role": "Software Developer",
+      "company": {
+        "link": "https://www.jalasoft.com/",
+        "name": "jalasoft"
+      },
+      "description": "<ul> <li>  &#x2713; Member of Team PPI Team (C#, SQL, ASP.NET, JavaScript, Mercurial ) bug fixing</li><li>  &#x2713; Member of Team WEBTEAM Team (php, MySQL, Zend, WordPress, NodeJs ,AngularJS, polymer, Jenkins, GitHub, bash, Docker )</li> <li>  &#x2713;create CMS to generate new web sites, create any web sites for the company</li> <li>  &#x2713;Manager server hosting (Ubuntu, centos 6, 7, snort, apache, nginx, bash )</li> <li>  &#x2713;Member of team AKTANA Team (Nodejs, reactJS) create generics components for the application </li> <li>  &#x2713;Member of team ECA (Customization) Team (Visual Basic, AngularJS, dot NET),bug fixing and create new fixtures for user specifics</li> <li>  &#x2713;Member of team JAC Team (coffescript, reactJS, AngularJS, Nodejs)</li> <li>  create new fixtures for schedules controls, and migrate application to reactJs and nodeJS </li></ul>"
+    },
+    {
+      "date": "2011 - 2012",
+      "role": "Internship at foundation JALA",
+      "company": {
+        "link": "https://www.jalasoft.com/",
+        "name": "jalasoft"
+      },
+      "description": "&#x2713; Practice and upgrade code related JAVA , C++, C# "
+    },
+    {
+      "date": "2004 - 2005",
+      "role": "Software Developer",
+      "company": {
+        "link": "https://www.facebook.com/HeladosPandaCbba/?locale=es_LA",
+        "name": "inalcbba"
+      },
+      "description": "&#x2713; Create SYSTEM for administration Distributor PANDA) (visual Basic, SqlServer, Cristal Report.).."
+    },
+    {
+      "date": "2003 - 2004",
+      "role": "Software Developer",
+      "company": {
+        "link": "",
+        "name": "Pulperia Comteco"
+      },
+      "description": "&#x2713; Micro market PULPERIA COMTECO creates a desktop application to control the SISCOVEM micro market (Merchandise purchase and sale control system) (Visual Basic, SqlServer, Cristal Report.)"
+    }
+  ]
+}

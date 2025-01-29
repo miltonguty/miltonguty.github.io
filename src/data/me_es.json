@@ -1,0 +1,82 @@
+{
+  "profile": {
+    "domain": "Guty.dev",
+    "name": "Milton Gutierrez",
+    "profession": "Full stack developer",
+    "cvFile": "download/2.-CV-Milton Adalid Gutierrez Barco.pdf",
+    "photo": "./../images/me.jpeg",
+    "aboutMe": "Tengo 8 años de experiencia en el desarrollo de aplicaciones web y de escritorio, con habilidades muy fuertes en JavaScript frontend y backend, con mucha motivación para aprender nuevas tecnologías y buenas habilidades de comunicación. Altamente responsable, honesta con puntualidad y compromiso, adaptabilidad al cambio, facilidad para trabajar en equipo, en condición de alta presión",
+    "whatsapp": "",
+    "facebook": "https://www.facebook.com/milton.guty.dev",
+    "instagram": "https://www.instagram.com/milton.guty.dev/",
+    "linkedin": "https://www.linkedin.com/in/milton-gutierrez-331645346/",
+    "gitHub": "https://github.com/miltonguty",
+    "twitter": ""
+  },
+  "projects": [
+    {
+      "icon": "application",
+      "repository": "",
+      "link": "https://ferritab.com",
+      "title": "Ferritab",
+      "description": "Web site de ventas de agregados de material de contruccion.",
+      "tags": ["vueJs", "Laravel", "chartjs", "tailwind"]
+    }
+  ],
+  "experience": [
+    {
+      "date": "2021 - Present",
+      "role": "Software Developer",
+      "company": {
+        "link": "https://www.facebook.com/primefactorsolutions",
+        "name": "prime factor solutions"
+      },
+      "description": "<ul><li> &#x2713; netforum  implementacion de opciones personalizadas</li> <li> &#x2713;resolver errores y crear sitios web para diferentes compañías dentro de la empresa </li><li> &#x2713;ingrese al equipo de ASA , para la creación de su nueva aplicación web usando c# y blazor</li>"
+    },
+    {
+      "date": "2020 - 2021",
+      "role": "Software Developer",
+      "company": {
+        "link": "",
+        "name": "STAFF SOFTWARE ENGINEER FREELANCER"
+      },
+      "description": "<ul> <li> &#x2713; cree un sitio web con wordpress en los cuales e uso diferentes plugins como ser , custom fields, yoast SEO, y cree un plugins para el manejo de reuniones, también se integró con redes sociales y métodos de pago</li>      <li> &#x2713;migrecion  sitios web hechos en symphony a WordPress </li>      <li> &#x2713; cree un sistema de administración de condominios</li>    "
+    },
+    {
+      "date": "2012 - March 2020",
+      "role": "Software Developer",
+      "company": {
+        "link": "https://www.jalasoft.com/",
+        "name": "jalasoft"
+      },
+      "description": "<ul> <li>  &#x2713; miembro del equipo PPI (C#, SQL, ASP.NET, JavaScript, Mercurial ) resolver errores</li><li>  &#x2713; miembro del equipo WEBTEAM (php, MySQL, Zend, WordPress, NodeJs,AngularJS, polymer, Jenkins, GitHub, bash, Docker, ) creación de un CMS para crear nuevos sitios web y creación y administración de muchos sitios en la compañía</li> <li>  &#x2713;administración de servidores y hosting (Ubuntu, centos 6, 7, snort,apache, nginx, bash )</li> <li>  &#x2713;miembro del equipo ECA (Customization) Team (Visual Basic, AngularJS,dot NET), resolver errores y crear fixures custonisados para diferentes clientes </li> <li>  &#x2713;miembro del JAC Team (coffescript, reactJS, AngularJS, Nodejs) crear nuevos fixures para manejo de reuniones y migración de la aplicación a reactjs y nodejs</li> <li>  &#x2713;Member of team JAC Team (coffescript, reactJS, AngularJS, Nodejs)</li> <li>  create new fixtures for schedules controls, and migrate application to reactJs and nodeJS </li></ul>"
+    },
+    {
+      "date": "2011 - 2012",
+      "role": "Internship at foundation JALA",
+      "company": {
+        "link": "https://www.jalasoft.com/",
+        "name": "PASANTÍA EN LA FUNDACIÓN JALA"
+      },
+      "description": "&#x2713; prácticas para realizar código según los estándares requeridos por los clientes JAVA , C++, C#"
+    },
+    {
+      "date": "2004 - 2005",
+      "role": "Software Developer",
+      "company": {
+        "link": "https://www.facebook.com/HeladosPandaCbba/?locale=es_LA",
+        "name": "inalcbba"
+      },
+      "description": "&#x2713; Creacion del Sistema Distribuidora para (PANDA) (visual Basic, SqlServer, Cristal Report.).."
+    },
+    {
+      "date": "2003 - 2004",
+      "role": "Software Developer",
+      "company": {
+        "link": "",
+        "name": "Pulperia Comteco"
+      },
+      "description": "&#x2713; Creacion del sistema Para la pulperia PULPERIA COMTECO  (Merchandise purchase and sale control system) (Visual Basic, SqlServer, Cristal Report.)"
+    }
+  ]
+}
